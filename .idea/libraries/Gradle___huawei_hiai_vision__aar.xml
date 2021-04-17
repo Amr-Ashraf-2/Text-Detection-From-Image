@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: :huawei-hiai-vision:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/huawei-hiai-vision.aar/4391bceac4cab85250d674bfeb67d106/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/huawei-hiai-vision.aar/a5c4ab6dcf792382c9d0095b0557f5b7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/huawei-hiai-vision.aar/7d3bc71444df86ee62f7f9ff922d2e15/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/510246298c13b6aec3a402c49b19a07f/huawei-hiai-vision/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/510246298c13b6aec3a402c49b19a07f/huawei-hiai-vision/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/510246298c13b6aec3a402c49b19a07f/huawei-hiai-vision/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

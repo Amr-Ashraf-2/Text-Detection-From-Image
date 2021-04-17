@@ -1,0 +1,6 @@
+com/huawei/hiai/text/detection/BuildConfig.java
+ com.huawei.hiai.text.detection.BuildConfig
+com/huawei/hiai/text/detection/MainActivity.java
+ com.huawei.hiai.text.detection.MainActivity
+ com.huawei.hiai.text.detection.MainActivity$1
+ com.huawei.hiai.text.detection.MainActivity$GenericTextAsync

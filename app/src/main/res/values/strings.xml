@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text Detection</string>
+    <string name="select_picture">Select an image</string>
+    <string name="detect">Start Detect</string>
+</resources>
